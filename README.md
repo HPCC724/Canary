@@ -10,6 +10,7 @@ We provide not only the p4 code, but also the test scripts and controller script
 - P4_source/: P4code for barefoot-tofino switch of Canary.Which ir written by P4-16.
 - Test_source/: PTF scripts for testing.
 - controller/: controller written by python.
+- simulation/: packet simulation code for Canary.
 
 ## 3. Environment:
 - Tofino Switch with SDK >= 9.7.2	
